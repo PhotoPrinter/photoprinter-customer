@@ -36,7 +36,7 @@ function App() {
                 variant="contained"
                 color="primary"
                 onClick={() => history.push("/neworder")}
-                style={{ marginBottom: 15 }}>
+                style={{ marginBottom: 15, marginTop: 10 }}>
                 Create a new order
               </Button>
               <Button

@@ -2,7 +2,7 @@
   "name": "photoprinter-customer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bfkwong.github.io/printr-cust",
+  "homepage": "https://photoprinter.github.io/photoprinter-customer",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
